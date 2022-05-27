@@ -1,2 +1,4 @@
-# data-engineering-stuff
-place to store datasets and pipelines
+# data-engineering-"stuff"
+
+#description 
+essentially just a repo for my projects related to data engineering 
