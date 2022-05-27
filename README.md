@@ -1,5 +1,5 @@
-# data-engineering-"stuff"
+# Data Engineering Projects
 
-# description 
+# Description 
 
-essentially just a repo for my projects related to data engineering 
+A repo for my projects related to data engineering 
